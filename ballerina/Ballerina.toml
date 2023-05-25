@@ -1,0 +1,8 @@
+[package]
+org = "async_runtimes_benchmarks"
+name = "strands"
+version = "0.1.0"
+distribution = "2201.5.0"
+
+[build-options]
+observabilityIncluded = true
